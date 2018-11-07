@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "FakeA354 2.0",
+  "author": "Assassiner354",
   "license": "MIT",
   "dependencies": {
     "discord.js": "^11.3.2",

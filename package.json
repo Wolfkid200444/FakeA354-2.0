@@ -1,0 +1,17 @@
+{
+  "name": "FakeA354 v2.0",
+  "version": "1.0.0",
+  "description": "A remake of the discord bot FakeA354",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FakeA354 2.0",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "fs": "0.0.1-security",
+    "request": "2.81.0",
+    "ms": "^2.1.1"
+  }
+}

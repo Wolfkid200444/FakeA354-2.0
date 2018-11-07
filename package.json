@@ -4,7 +4,7 @@
   "description": "A remake of the discord bot FakeA354",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "FakeA354 2.0",
   "license": "MIT",

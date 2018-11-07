@@ -27,12 +27,7 @@ jsfile.forEach((f, i) =>{
 bot.on("ready", () => {
   bot.user.setStatus('dnd');
   bot.user.setActivity('my new codes :) | ?help', {type: 'WATCHING'});
-  console.log(" ###   #     #  #     #####  #     #  #####");
-  console.log("#   #  # #   #  #       #    # #   #  #");
-  console.log("#   #  #  #  #  #       #    #  #  #  ####");
-  console.log("#   #  #   # #  #       #    #   # #  #");
-  console.log(" ###   #     #  ####  #####  #     #  #####");
-  console.log(`Bot name ${client.user.username}`)
+  console.log("Bot Online!!!!");
 });
 
 bot.on("message", async message => {
